@@ -87,3 +87,9 @@ Below are screenshots showing the API working end-to-end.
 | Validate basic data              | `if not name...`, `if not email...` checks       |
 | Proper status codes              | 200, 201, 400, 404, 500 used correctly           |
 | RESTful naming (nouns not verbs) | `/users` not `/getUsers` or `/createUser`        |
+
+👨💻 Author
+Amina Aftab
+________________________________________
+📌Decodelabs
+Virtual Internship – Project 2
