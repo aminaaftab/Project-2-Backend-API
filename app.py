@@ -1,16 +1,6 @@
 """
 DecodeLabs - Project 2: Backend API Development
 -------------------------------------------------
-A simple "Users API" built with Python + Flask.
-Satisfies the project requirements:
-    1. Create API endpoints (GET / POST)
-    2. Handle user input and responses
-    3. Validate basic data
-
-Users are stored in memory (a simple list) so you don't need a
-database to complete this project. Data resets when the server restarts
-- that's expected and fine for this exercise.
-"""
 
 from flask import Flask, request, jsonify
 
