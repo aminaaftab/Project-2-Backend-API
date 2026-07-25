@@ -1,6 +1,5 @@
 # Project 2: Backend API Development (Python + Flask version)
 
-Same "Users API" as the Node.js version, but built with **Python + Flask**.
 
 ## What this project does
 - `GET /users` — get the list of all users
